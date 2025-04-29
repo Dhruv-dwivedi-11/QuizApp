@@ -1,0 +1,1 @@
+<h2>A simple yet interactive Quiz Application developed using Java Swing. This project is designed to test users with multiple-choice questions in a graphical interface and provide immediate feedback and scoring.</h2>
